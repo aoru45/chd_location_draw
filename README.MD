@@ -12,4 +12,4 @@ will generate .dll file and .exe injection file.
 Run the game and click 'inject.exe'.
 Just enjoy it.
 ## Blog
-https://www.cnblogs.com/aoru45/p/16810996.html
+https://www.cnblogs.com/aoru45/p/17020748.html
